@@ -1,0 +1,24 @@
+{
+  "name": "sawmill.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/NeilBetham/sawmill.js",
+  "authors": [
+    "Neil Betham"
+  ],
+  "description": "Log parser and renderer",
+  "main": "dist/sawmill.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "log"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
